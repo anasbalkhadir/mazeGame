@@ -1,3 +1,16 @@
+Enjoy  the game 
+
+## Commands
+
+```sh
+npm install
+```
+then 
+```sh
+npm start 
+```
+
+
 # eShard Front-end Developer Technical Test
 
 This repository holds the base source code for eShard's technical test for
