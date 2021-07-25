@@ -1,4 +1,4 @@
-Enjoy  the game 
+Enjoy the maze game 
 
 ## Commands
 
