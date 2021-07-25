@@ -1,0 +1,5 @@
+.mailFom{
+    min-width: 100%;
+    flex-direction: column;
+    margin-bottom: 1vw
+}
